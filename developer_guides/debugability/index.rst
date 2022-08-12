@@ -6,6 +6,7 @@ Debugability
 .. toctree::
    :maxdepth: 1
 
+   gdb/index
    traces/index
    logger/index
    coredump-reader/index
